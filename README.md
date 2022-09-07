@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/yusuf-burhanpur/Advice-Generator)
-- Live Site URL: [Add live site URL here](https://advice-generator-6106c.web.app/)
+- Solution URL: [GitHub Link](https://github.com/yusuf-burhanpur/Advice-Generator)
+- Live Site URL: [Advice Generator Live](https://advice-generator-6106c.web.app/)
 
 
 ### Built with
@@ -49,5 +49,5 @@ I ahve learned about justify-content property of css and flexbox property in thi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yusuf-burhanpur)
-- LinkdIn - [@yourusername](https://www.linkedin.com/in/yusuf-burhanpurwala-a452ba242/)
+- Frontend Mentor - [@yusuf-burhanpur](https://www.frontendmentor.io/profile/yusuf-burhanpur)
+- LinkdIn - [@yusuf-burhanpurwala](https://www.linkedin.com/in/yusuf-burhanpurwala-a452ba242/)
